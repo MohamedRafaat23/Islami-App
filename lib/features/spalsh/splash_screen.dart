@@ -1,7 +1,8 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
-import 'package:islami/core/constans/app_Images.dart';
-import 'package:islami/features/onboarding/onboarding_screen.dart';
+import 'package:isalamic_app/core/constans/app_Images.dart';
+import 'package:isalamic_app/features/onboarding/onboarding_screen.dart';
+
 
 class SplashScreen extends StatefulWidget {
   static const String routeName = "splash";

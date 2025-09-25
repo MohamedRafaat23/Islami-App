@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/theme/app_colors.dart';
+import 'package:isalamic_app/core/theme/app_colors.dart';
+
 
 class TextStylesHelper {
   static TextStyle largeTitleTextStyle({Color textColor = AppColors.gold}) {

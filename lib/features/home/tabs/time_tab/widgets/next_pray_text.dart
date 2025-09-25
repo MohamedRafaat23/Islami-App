@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/theme/app_colors.dart';
-import 'package:islami/core/theme/textstyle.dart';
+import 'package:isalamic_app/core/theme/app_colors.dart';
+import 'package:isalamic_app/core/theme/textstyle.dart' ;
+
 
 class NextPrayText extends StatefulWidget {
   const NextPrayText({super.key});

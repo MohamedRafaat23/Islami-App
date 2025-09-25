@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:isalamic_app/core/widget/base_tob_body.dart';
+import 'package:isalamic_app/features/home/tabs/radio_tab/widgets/card_radio.dart';
+import 'package:isalamic_app/features/home/tabs/radio_tab/widgets/selected_container.dart';
 
-import 'package:islami/core/widget/base_tob_body.dart';
-import 'package:islami/features/home/tabs/radio_tab/widgets/card_radio.dart';
-import 'package:islami/features/home/tabs/radio_tab/widgets/selected_container.dart';
+
 
 class RadioTab extends StatelessWidget {
   const RadioTab({super.key});

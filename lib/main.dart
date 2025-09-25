@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/model/sura.dart';
-import 'package:islami/features/home/home_screen.dart';
-import 'package:islami/features/home/tabs/quran_tab/widget/sura_details.dart';
-import 'package:islami/features/onboarding/onboarding_screen.dart';
-import 'package:islami/features/spalsh/splash_screen.dart';
+import 'package:isalamic_app/core/model/sura.dart';
+import 'package:isalamic_app/features/home/home_screen.dart';
+import 'package:isalamic_app/features/home/tabs/quran_tab/widget/sura_details.dart';
+import 'package:isalamic_app/features/onboarding/onboarding_screen.dart';
+import 'package:isalamic_app/features/spalsh/splash_screen.dart';
+
 
 
 void main() {

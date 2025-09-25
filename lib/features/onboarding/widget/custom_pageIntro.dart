@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/theme/textstyle.dart';
+import 'package:isalamic_app/core/theme/textstyle.dart';
+
 
 class CustomPageIntro extends StatelessWidget {
   final String centerImage;

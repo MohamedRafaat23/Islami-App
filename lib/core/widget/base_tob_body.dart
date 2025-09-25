@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/constans/app_Images.dart';
+import 'package:isalamic_app/core/constans/app_Images.dart';
+
 
 class BaseTabBody extends StatelessWidget {
   final Widget child;

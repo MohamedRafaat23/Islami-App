@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/constans/app_Images.dart';
-import 'package:islami/core/model/sura.dart';
-import 'package:islami/core/theme/app_colors.dart';
-import 'package:islami/core/theme/textstyle.dart';
-import 'package:islami/core/widget/base_tob_body.dart';
-import 'package:islami/features/home/tabs/quran_tab/widget/most_recent_card.dart';
-import 'package:islami/features/home/tabs/quran_tab/widget/sura_card.dart';
-import 'package:islami/features/home/tabs/quran_tab/widget/sura_details.dart';
+import 'package:isalamic_app/core/constans/app_Images.dart';
+import 'package:isalamic_app/core/model/sura.dart';
+import 'package:isalamic_app/core/theme/app_colors.dart';
+import 'package:isalamic_app/core/theme/textstyle.dart';
+import 'package:isalamic_app/core/widget/base_tob_body.dart';
+import 'package:isalamic_app/features/home/tabs/quran_tab/widget/most_recent_card.dart';
+import 'package:isalamic_app/features/home/tabs/quran_tab/widget/sura_card.dart' show SuraCard;
+import 'package:isalamic_app/features/home/tabs/quran_tab/widget/sura_details.dart';
+
 import 'package:shared_preferences/shared_preferences.dart';
 
 

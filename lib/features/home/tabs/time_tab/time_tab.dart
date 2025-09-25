@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/theme/app_colors.dart';
-import 'package:islami/core/theme/textstyle.dart';
-import 'package:islami/core/widget/base_tob_body.dart';
-import 'package:islami/features/home/tabs/time_tab/widgets/azkar_card.dart';
-import 'package:islami/features/home/tabs/time_tab/widgets/header_card_time.dart';
-import 'package:islami/features/home/tabs/time_tab/widgets/next_pray_text.dart';
-import 'package:islami/features/home/tabs/time_tab/widgets/view_card_time.dart';
+import 'package:isalamic_app/core/theme/app_colors.dart';
+import 'package:isalamic_app/core/theme/textstyle.dart';
+import 'package:isalamic_app/core/widget/base_tob_body.dart';
+import 'package:isalamic_app/features/home/tabs/time_tab/widgets/azkar_card.dart';
+import 'package:isalamic_app/features/home/tabs/time_tab/widgets/header_card_time.dart';
+import 'package:isalamic_app/features/home/tabs/time_tab/widgets/next_pray_text.dart';
+import 'package:isalamic_app/features/home/tabs/time_tab/widgets/view_card_time.dart';
 
 class TimeTab extends StatelessWidget {
   const TimeTab({super.key});

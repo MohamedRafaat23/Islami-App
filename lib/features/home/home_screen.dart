@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/constans/app_Images.dart';
-import 'package:islami/core/theme/app_colors.dart';
-import 'package:islami/features/home/tabs/haedth_tab/hadeth_tab.dart';
-import 'package:islami/features/home/tabs/quran_tab/quran_tab.dart';
-import 'package:islami/features/home/tabs/radio_tab/radio_tab.dart';
-import 'package:islami/features/home/tabs/sebha_tab/sebha_tab.dart';
-import 'package:islami/features/home/tabs/time_tab/time_tab.dart';
-import 'package:islami/features/home/widget/custom_bottom_icon.dart';
+import 'package:isalamic_app/core/constans/app_Images.dart';
+import 'package:isalamic_app/core/theme/app_colors.dart';
+import 'package:isalamic_app/features/home/tabs/haedth_tab/hadeth_tab.dart';
+import 'package:isalamic_app/features/home/tabs/quran_tab/quran_tab.dart';
+import 'package:isalamic_app/features/home/tabs/radio_tab/radio_tab.dart';
+import 'package:isalamic_app/features/home/tabs/sebha_tab/sebha_tab.dart';
+import 'package:isalamic_app/features/home/tabs/time_tab/time_tab.dart';
+import 'package:isalamic_app/features/home/widget/custom_bottom_icon.dart';
+
 
 class HomeScreen extends StatefulWidget {
   static const String routeName = "home";

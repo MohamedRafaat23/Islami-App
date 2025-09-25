@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/constans/app_Images.dart';
-import 'package:islami/core/theme/app_colors.dart';
-import 'package:islami/core/theme/textstyle.dart';
-import 'package:islami/core/widget/base_tob_body.dart';
+import 'package:isalamic_app/core/constans/app_Images.dart';
+import 'package:isalamic_app/core/theme/app_colors.dart';
+import 'package:isalamic_app/core/theme/textstyle.dart';
+import 'package:isalamic_app/core/widget/base_tob_body.dart';
+
 
 class SebhaTab extends StatefulWidget {
   const SebhaTab({super.key});

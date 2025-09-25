@@ -1,4 +1,5 @@
-import 'package:islami/core/constans/app_Images.dart';
+import 'package:isalamic_app/core/constans/app_Images.dart';
+
 
 class AzkarCard {
   final String imagePath;

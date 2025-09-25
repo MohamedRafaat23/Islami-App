@@ -1,11 +1,13 @@
  import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:islami/core/constans/app_Images.dart';
-import 'package:islami/core/model/hadeth.dart';
-import 'package:islami/core/theme/app_colors.dart';
-import 'package:islami/core/theme/textstyle.dart';
-import 'package:islami/features/home/tabs/haedth_tab/hadeth_details.dart';
+import 'package:isalamic_app/core/constans/app_Images.dart';
+import 'package:isalamic_app/core/model/hadeth.dart';
+import 'package:isalamic_app/core/theme/app_colors.dart';
+import 'package:isalamic_app/core/theme/textstyle.dart';
+import 'package:isalamic_app/features/home/tabs/haedth_tab/hadeth_details.dart';
+
+
 
 class HadethCard extends StatefulWidget {
   const HadethCard({super.key});

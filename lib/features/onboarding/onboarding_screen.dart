@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/constans/app_Images.dart';
-import 'package:islami/core/theme/app_colors.dart';
-import 'package:islami/core/theme/textstyle.dart';
-import 'package:islami/features/home/home_screen.dart';
-import 'package:islami/features/onboarding/widget/custom_pageIntro.dart';
+import 'package:isalamic_app/core/constans/app_Images.dart';
+import 'package:isalamic_app/core/theme/app_colors.dart';
+import 'package:isalamic_app/core/theme/textstyle.dart';
+import 'package:isalamic_app/features/home/home_screen.dart';
+import 'package:isalamic_app/features/onboarding/widget/custom_pageIntro.dart';
+
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 class OnboardingScreen extends StatefulWidget {
@@ -74,6 +75,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
       body: Padding(
         padding: const EdgeInsets.all(20.0),
         child: Stack(
+          
           children: [
             Align(
               alignment: Alignment.topCenter,

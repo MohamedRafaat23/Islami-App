@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:islami/core/model/prayertime.dart';
-import 'package:islami/core/theme/app_colors.dart';
-import 'package:islami/core/theme/textstyle.dart';
+import 'package:isalamic_app/core/model/prayertime.dart';
+import 'package:isalamic_app/core/theme/app_colors.dart';
+import 'package:isalamic_app/core/theme/textstyle.dart';
+
 
 class ViewCardTime extends StatelessWidget {
   const ViewCardTime({super.key});

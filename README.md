@@ -39,9 +39,9 @@ This project uses the following packages:
 
 Run these commands in your terminal:
 #### 1. Open Terminal and Clone the Repo
-git clone https://github.com/omararameen77/islami.git
+git clone https://github.com/MohamedRafaat23/Islami-App.git
 #### 2. Cd Over
-cd islami
+cd Islami-App
 #### 3 .Run Pub
 flutter pub get
 ## Help
@@ -50,7 +50,7 @@ This App is using SharedPreferences To get the Data From Local Data Source
 
 ## Authors
 
-Omar Ameen
+Mohamed Rafaat
 ## Images
 
 images
